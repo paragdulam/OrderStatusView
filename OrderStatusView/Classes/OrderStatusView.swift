@@ -24,7 +24,7 @@ extension UIColor {
 }
 
 
-class OrderStatusView: UIView {
+public class OrderStatusView: UIView {
     
     var statusCount: Int = 6 {
         didSet {
@@ -35,10 +35,10 @@ class OrderStatusView: UIView {
     var offSet: CGFloat = 16.0
     var circleRadius: CGFloat = 8.0
     
-    var normalStateColor: UIColor! = UIColor(white: 1.0, alpha: 0.8)
-    var selectedStateColor: UIColor! = UIColor(red: 251.0/255.0, green: 175.0/255.0, blue: 25.0/255.0, alpha: 1.0)
+    public var normalStateColor: UIColor! = UIColor(white: 1.0, alpha: 0.8)
+    public var selectedStateColor: UIColor! = UIColor(red: 251.0/255.0, green: 175.0/255.0, blue: 25.0/255.0, alpha: 1.0)
     
-    override func draw(_ rect: CGRect) {
+    override public func draw(_ rect: CGRect) {
         super.draw(rect)
         
         let context = UIGraphicsGetCurrentContext()
@@ -73,7 +73,7 @@ class OrderStatusView: UIView {
         }
     }
     
-    func setStatus(_ index: Int) {
+    public func setStatus(_ index: Int) {
         if selectedStatusIndex >= statusCount {
             return
         }
