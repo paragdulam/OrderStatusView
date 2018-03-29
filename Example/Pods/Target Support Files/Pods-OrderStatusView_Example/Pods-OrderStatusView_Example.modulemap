@@ -1,0 +1,6 @@
+framework module Pods_OrderStatusView_Example {
+  umbrella header "Pods-OrderStatusView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

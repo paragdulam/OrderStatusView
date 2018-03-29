@@ -1,6 +1,6 @@
 # OrderStatusView
 
-[![CI Status](http://img.shields.io/travis/parag-promobitech/OrderStatusView.svg?style=flat)](https://travis-ci.org/parag-promobitech/OrderStatusView)
+[![CI Status](http://img.shields.io/travis/paragdulam/OrderStatusView.svg?style=flat)](https://travis-ci.org/paragdulam/OrderStatusView)
 [![Version](https://img.shields.io/cocoapods/v/OrderStatusView.svg?style=flat)](http://cocoapods.org/pods/OrderStatusView)
 [![License](https://img.shields.io/cocoapods/l/OrderStatusView.svg?style=flat)](http://cocoapods.org/pods/OrderStatusView)
 [![Platform](https://img.shields.io/cocoapods/p/OrderStatusView.svg?style=flat)](http://cocoapods.org/pods/OrderStatusView)
@@ -22,7 +22,7 @@ pod 'OrderStatusView'
 
 ## Author
 
-parag-promobitech, paragdulam@gmail.com
+paragdulam, paragdulam@gmail.com
 
 ## License
 

@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  OrderStatusView
 //
-//  Created by parag-promobitech on 03/29/2018.
-//  Copyright (c) 2018 parag-promobitech. All rights reserved.
+//  Created by paragdulam on 03/29/2018.
+//  Copyright (c) 2018 paragdulam. All rights reserved.
 //
 
 import UIKit

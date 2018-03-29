@@ -1,0 +1,6 @@
+framework module OrderStatusView {
+  umbrella header "OrderStatusView-umbrella.h"
+
+  export *
+  module * { export * }
+}
