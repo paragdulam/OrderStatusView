@@ -6,7 +6,7 @@
 [![Platform](https://img.shields.io/cocoapods/p/OrderStatusView.svg?style=flat)](http://cocoapods.org/pods/OrderStatusView)
 
 ## Example
-
+![](https://preview.ibb.co/mKWDHH/ezgif_5_f9595bb009.gif)
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
