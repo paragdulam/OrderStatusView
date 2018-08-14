@@ -26,7 +26,7 @@ extension UIColor {
 
 public class OrderStatusView: UIView {
     
-    var statusCount: Int = 6 {
+    public var statusCount: Int = 6 {
         didSet {
             setNeedsDisplay()
         }
